@@ -18,9 +18,9 @@
  
 This is a simple quiz flutter applicaton. Here are some questions. User has to select answers from multiple choices. There are total 6 questions. After attending the questions the score is shown. 
  
-### For some reson the codebase od this application is not found. To know about this app watch the demo video.
+### For some reson the codebase of this application is not found. To know about this app watch the demo video.
 
-## SIMPLE QUIZ DEMO VIDEO: :point_right: <a href="">Click here to watch</a>
+## SIMPLE QUIZ DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=-17PvO4ejNA&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=7">Click here to watch</a>
 
 ## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
 
@@ -37,15 +37,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Screenshots Of Cool-Cab:point_down: 
+## Screenshots :point_down: 
 
 <div align="center">
  
 <a href="pics/c1.jpeg"><img src="pics/c1.jpeg" width="250" height= "450"></a> <a href="pics/c2.jpeg"><img src="pics/c2.jpeg" width="250" height= "450"></a> <a href="pics/c3.jpeg"><img src="pics/c3.jpeg" width="250" height= "450"></a>
  
 <a href="pics/c4.jpeg"><img src="pics/c4.jpeg" width="250" height= "450"></a> <a href="pics/c5.jpeg"><img src="pics/c5.jpeg" width="250" height= "450"></a> <a href="pics/c6.jpeg"><img src="pics/c6.jpeg" width="250" height= "450"></a>
-
-<a href="pics/c7.jpeg"><img src="pics/c7.jpeg" width="250" height= "450"></a> <a href="pics/c8.jpeg"><img src="pics/c8.jpeg" width="250" height= "450"></a> <a href="pics/c9.jpeg"><img src="pics/c9.jpeg" width="250" height= "450"></a>
 
 </div>
 
