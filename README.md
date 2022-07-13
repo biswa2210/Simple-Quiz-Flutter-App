@@ -14,7 +14,7 @@
 <a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## About Cool Cab App :point_down: 
+## About :point_down: 
  
 This is a simple quiz flutter applicaton. Here are some questions. User has to select answers from multiple choices. There are total 6 questions. After attending the questions the score is shown. 
  
